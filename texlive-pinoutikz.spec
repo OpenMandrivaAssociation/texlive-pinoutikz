@@ -1,6 +1,6 @@
 Name:		texlive-pinoutikz
 Version:	55966
-Release:	1
+Release:	2
 Summary:	Draw chip pinouts with TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pinoutikz
