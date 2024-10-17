@@ -3,7 +3,7 @@ Version:	55966
 Release:	2
 Summary:	Draw chip pinouts with TikZ
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pinoutikz
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pinoutikz
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pinoutikz.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pinoutikz.doc.r%{version}.tar.xz
